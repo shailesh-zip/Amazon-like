@@ -1,3 +1,2 @@
-# Amazon-like
-<br>
+# Amazon-like<br>
 Author = Shailesh Solanki
